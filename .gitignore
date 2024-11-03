@@ -1,0 +1,15 @@
+# Go build and module files
+/bin
+/pkg
+*.exe
+*.log
+*.out
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+#program
+ngrok
