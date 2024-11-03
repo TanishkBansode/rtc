@@ -41,8 +41,8 @@ RIGHT-TO-COMMENT/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/rtc/right-to-comment.git
-cd right-to-comment
+git clone https://github.com/YourUsername/rtc.git
+cd rtc/right-to-comment
 ```
 
 2. Create a `.env` file in the root directory with your YouTube API key:
