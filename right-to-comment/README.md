@@ -2,6 +2,8 @@
 
 Right to Comment is a Go web application that allows users to search YouTube videos and add comments on our platform. It provides a simple interface for video search, embedding, and commenting functionality.
 
+[![Watch the Demo](https://img.youtube.com/vi/f3N9m0Suhf8/maxresdefault.jpg)](https://youtu.be/f3N9m0Suhf8)
+
 ## Features
 
 - YouTube video search using the YouTube Data API
