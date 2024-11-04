@@ -1,7 +1,8 @@
 # Right to Comment System
 
 A website that lets you search and watch YouTube videos while adding comments(right-to-comment) made with Gin, and a simple API service that handles just the commenting part (rtc-api) made with fiber - both sharing the same database.
-Note that both applications can be independently run by themselves, they just share same database
+Note that both applications can be independently run by themselves, they just share same database.
+The comments are independent from YouTube comments
 ## Project Structure
 
 ```
